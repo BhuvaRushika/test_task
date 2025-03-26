@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox, ttk
-from inventory import Inventory, ProductFactory, Category
+from src.models.inventory import Category, Product, ProductFactory, Inventory
 
 class InventoryGUI:
     """
