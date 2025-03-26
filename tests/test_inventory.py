@@ -1,5 +1,5 @@
 import pytest
-from testdemo.src.models.inventory import Category, Product, ProductFactory, Inventory
+from src.models.inventory import Category, Product, ProductFactory, Inventory
 
 def test_category_creation():
     cat = Category("Books", "Printed literature")
