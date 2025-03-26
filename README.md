@@ -5,8 +5,7 @@ A Python-based inventory management system with a GUI for a small e-commerce sto
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd testdemo
+   git clone https://github.com/BhuvaRushika/test_task.git
    ```
 
 2. Install dependencies: 
@@ -31,7 +30,8 @@ Note: tkinter is included with Python; only pytest is needed.
     Name: "Test Product"
     Price: "10.99"
     Category: "Electronics"
-    Quantity: "5" ```
+    Quantity: "5"
+    ```
 3. Verify the product appears in the table and test filtering by category
 
 - CLI:
